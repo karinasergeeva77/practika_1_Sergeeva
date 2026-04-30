@@ -72,13 +72,14 @@
 
 ### Поиск тем на сайте getgrav.org
 <br>
-Тема 1. Максимально похожая на разработанный альтернативный дизайн версии сайта кафедры в Figma
+**Тема 1.** Максимально похожая на разработанный альтернативный дизайн версии сайта кафедры в Figma
 Была выбрана тема TwentyFifteen Site
 <br>
 <img width="1320" height="1329" alt="zy0RaffThEVyu9fBxIId5eixWtvI_oeig_rt5LEb79x7Yj5rPo25V0hnRKtKkAsadolmFkI_oP5UmodUfLHY9S_m" src="https://github.com/user-attachments/assets/be64f43b-23c9-49f1-95bd-922cd5228088" />
 Данная тема была выбрана, так как схоже расположение элементов на странице. Слева расположено меню, аналогично альтернативной версии сайта кафедры. На основной части страницы расположен основной текст и изображение. Добавлена строка поиска для навигации по сайту. 
 <br>
-Тема 2. Максимально адекватная специфике внешнего оформления сайта кафедры
+
+**Тема 2.** Максимально адекватная специфике внешнего оформления сайта кафедры
 <br>
 Была выбрана тема Open Course Hub Site
 <img width="1320" height="1318" alt="ek6a0dJGfbyez_0uDxyEYvdYSdJI7fI9dBrd0oLuhO6epouTrcCg_67190rOBj50E9_s4Au_U7JpPpKek-qwNmAh" src="https://github.com/user-attachments/assets/efc1bbc1-3ba4-485f-a99c-73f78690f339" />
