@@ -1,12 +1,10 @@
 # Задание 1
 ### Инсталляция программного обеспечения 
 1. Скачивание установочного файла для Mac с официального сайта и установка Docker
-<img width="936" height="601" alt="Снимок экрана 2026-04-29 в 19 01 26" src="https://github.com/user-attachments/assets/de5e3c79-3c5b-4301-9362-67e57ded32fc" />
-' '
+<img width="936" height="601" alt="Снимок экрана 2026-04-29 в 19 01 26" src="https://github.com/user-attachments/assets/de5e3c79-3c5b-4301-9362-67e57ded32fc" />  
 
 2. Docker установлен и запущен
 <img width="1440" height="900" alt="Снимок экрана 2026-04-29 в 14 30 50" src="https://github.com/user-attachments/assets/69f4da11-088f-4e1e-8242-52ba02db1c8a" />
-
 
 3. Создание пустого каталога, Dockerfile и docker-compose.yml
 <img width="566" height="133" alt="Снимок экрана 2026-04-29 в 14 54 48" src="https://github.com/user-attachments/assets/1bc36a73-fe31-4cda-ae28-90f1ce221258" />
