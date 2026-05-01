@@ -74,17 +74,40 @@
 <br>
 
 **Тема 1.** Максимально похожая на разработанный альтернативный дизайн версии сайта кафедры в Figma
-Была выбрана тема TwentyFifteen Site
-<br>
-<img width="1320" height="1329" alt="zy0RaffThEVyu9fBxIId5eixWtvI_oeig_rt5LEb79x7Yj5rPo25V0hnRKtKkAsadolmFkI_oP5UmodUfLHY9S_m" src="https://github.com/user-attachments/assets/be64f43b-23c9-49f1-95bd-922cd5228088" />
+Была выбрана тема Learn2 (https://getgrav.org/images/3/0/f/9/a/30f9a487a7d239ab9f1f209c998be2fbb5217398-skeletons-learn2-with-git-sync-site.jpg?g-949137df)
 Данная тема была выбрана, так как схоже расположение элементов на странице. Слева расположено меню, аналогично альтернативной версии сайта кафедры. На основной части страницы расположен основной текст и изображение. Добавлена строка поиска для навигации по сайту. 
 <br>
 
 **Тема 2.** Максимально адекватная специфике внешнего оформления сайта кафедры
 <br>
-Была выбрана тема Open Course Hub Site
-<img width="1320" height="1318" alt="ek6a0dJGfbyez_0uDxyEYvdYSdJI7fI9dBrd0oLuhO6epouTrcCg_67190rOBj50E9_s4Au_U7JpPpKek-qwNmAh" src="https://github.com/user-attachments/assets/efc1bbc1-3ba4-485f-a99c-73f78690f339" />
+Была выбрана тема Afterblog (https://getgrav.org/images/0/9/5/7/9/09579d8a96f18f80a26c9c63dee4ceb7735e595b-themes-afterblog.jpg?g-949137df)
 Данное оформление будет удобно для сайта вуза/кафедры: в правой части располагается меню и основная информация (можно прописать контакты для связи), все необходимые вкладки в быстром доступе, в центральной части можно расположить основные новости кафедры, включая фото-контент. Сайт визуально удобен для восприятия (не загроможден большим текстом). 
 
 # Задание 3
 ### Инсталляция темы в развернутый локально сайт на Grav
+<br>
+1. Скачивание и активация темы 1
+<br>
+<img width="1440" height="818" alt="Снимок экрана 2026-05-01 в 19 43 42" src="https://github.com/user-attachments/assets/13816157-be6c-4c8b-8494-0b1ec3439781" />
+<br>
+2. Редактирование страницы кафедры вуза
+<br>
+<img width="1440" height="817" alt="Снимок экрана 2026-05-01 в 19 45 00" src="https://github.com/user-attachments/assets/105e5f7a-b05a-4038-bfee-100b6eed497b" />
+<br>
+3. Результат:
+<br>
+<img width="1440" height="816" alt="Снимок экрана 2026-05-01 в 19 54 08" src="https://github.com/user-attachments/assets/1487335d-a855-4c0a-8d51-797dc9de53fe" />
+<br>
+<img width="1440" height="817" alt="Снимок экрана 2026-05-01 в 19 54 17" src="https://github.com/user-attachments/assets/f74d4b97-9f38-4059-a2cb-a058b310db09" />
+<br>
+<img width="1440" height="817" alt="Снимок экрана 2026-05-01 в 19 54 22" src="https://github.com/user-attachments/assets/cc60b507-69e2-420c-84f0-479bddce35d2" />
+<br>
+4. Скачивание и активация темы 2
+<br>
+<img width="1440" height="812" alt="Снимок экрана 2026-05-01 в 20 06 22" src="https://github.com/user-attachments/assets/48255286-0e19-46e6-a784-4f222ac1007a" />
+<br>
+5. Результат
+<br>
+<img width="1440" height="812" alt="Снимок экрана 2026-05-01 в 20 06 36" src="https://github.com/user-attachments/assets/930080fe-cee2-4cef-9575-7f07a02943a1" />
+
+
