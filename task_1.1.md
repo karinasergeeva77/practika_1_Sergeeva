@@ -41,13 +41,13 @@
 <br>
 9. Редактирование содержимого страницы
 <br>
-<img width="1440" height="900" alt="Снимок экрана 2026-04-30 в 23 40 35" src="https://github.com/user-attachments/assets/de95a180-a868-49eb-a1ea-7ded9693cbbb" />
+<img width="1158" height="653" alt="Снимок экрана 2026-05-01 в 18 30 07" src="https://github.com/user-attachments/assets/a985bc98-9d42-4a37-9a8d-18ed479de368" />
 <br>
 10. Сайт Grav (не админ панель):
 <br>
-<img width="1440" height="900" alt="Снимок экрана 2026-04-30 в 23 41 34" src="https://github.com/user-attachments/assets/b84ec0e9-0147-4d56-af48-3919584a8807" />
+<img width="1150" height="663" alt="Снимок экрана 2026-05-01 в 18 30 19" src="https://github.com/user-attachments/assets/c38c7efc-b7c2-42cd-83c2-66380abad2d4" />
 <br>
-<img width="1440" height="900" alt="Снимок экрана 2026-04-30 в 23 41 52" src="https://github.com/user-attachments/assets/776914b7-76b9-4ca4-a073-c3d70a431165" />
+<img width="1155" height="527" alt="Снимок экрана 2026-05-01 в 18 30 31" src="https://github.com/user-attachments/assets/34386ffd-0d73-468d-b894-3fe379387067" />
 <br>
 11. Созданный контейнер в Docker desktop
 <br>
