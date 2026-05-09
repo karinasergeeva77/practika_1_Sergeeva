@@ -27,7 +27,8 @@
 <img width="1438" height="816" alt="Снимок экрана 2026-05-09 в 18 10 51" src="https://github.com/user-attachments/assets/3fdbc2df-7711-44a1-bf77-c4eaa01c04e4" />
 
 ### Шаг 2. Переход в раздел плагинов
-<img width="1437" height="822" alt="Снимок экрана 2026-05-09 в 18 12 07" src="https://github.com/user-attachments/assets/df849e5f-d6ff-4dad-9862-ff9b79f1509f" />
+<img width="1439" height="814" alt="Снимок экрана 2026-05-09 в 19 32 16" src="https://github.com/user-attachments/assets/6e98a203-ee10-4f02-b604-4fee7b86cf1b" />
+
 
 ### Шаг 3. Установка плагина
 В строке поиска вводим Timeline. Нажимаем кнопку «Install» напротив него.
