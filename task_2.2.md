@@ -36,15 +36,19 @@
 
 ### Шаг 4. Создание страницы
 В админ-панели переходим в раздел «Pages» и нажимаем Add, чтобы добавить новую страницу. Выбираем тип страницы Timeline
-<img width="1439" height="814" alt="Снимок экрана 2026-05-09 в 19 19 15" src="https://github.com/user-attachments/assets/e49c7538-1612-49bd-afc5-7172c046a2bc" />
+<img width="1440" height="817" alt="Снимок экрана 2026-05-09 в 19 49 51" src="https://github.com/user-attachments/assets/0c981d7d-4b4c-4f28-a2a3-faf590f30bb1" />
 
 ### Шаг 5. Редактирование страницы
-На созданной странице создаем дочерние страницы, выбираем тип Timeline event
-<img width="1440" height="815" alt="Снимок экрана 2026-05-09 в 19 13 00" src="https://github.com/user-attachments/assets/99b7aa31-bc4f-4d43-ace5-ce566b7922b1" />
+На созданной странице создаем дочерние страницы, выбираем тип Timeline event. Создадим страницу с расписанием занятий преподавателя Ильиной Татьяны Сергеевны на 11.05.2026
+<img width="1440" height="817" alt="Снимок экрана 2026-05-09 в 19 43 28" src="https://github.com/user-attachments/assets/72b2ae09-f8fe-49c0-b5b2-ea71e29396cb" />
+
+Внутри дочерних страниц добавляем дополнительную информацию (группу и аудиторию)
+<img width="1440" height="812" alt="Снимок экрана 2026-05-09 в 19 44 37" src="https://github.com/user-attachments/assets/902fad48-ec6b-475e-9b12-56623592a4c0" />
 
 ### Шаг 6. Просмотр страницы на сайте
 Переходим на сайт (http://localhost:8080) и открываем созданную страницу
-<img width="1440" height="818" alt="Снимок экрана 2026-05-09 в 19 19 36" src="https://github.com/user-attachments/assets/aa168c1d-7746-4e94-968b-f97abfac9dba" />
+<img width="1440" height="817" alt="Снимок экрана 2026-05-09 в 19 49 30" src="https://github.com/user-attachments/assets/262ab1a5-1f1b-4241-9d90-6ed100150c5f" />
+
 
 
 
