@@ -31,17 +31,20 @@
 
 ### Шаг 3. Установка плагина
 В строке поиска вводим Timeline. Нажимаем кнопку «Install» напротив него.
+<img width="1440" height="818" alt="Снимок экрана 2026-05-09 в 19 07 08" src="https://github.com/user-attachments/assets/de8721e2-ddf7-4394-8dfc-c2bba87bdbef" />
 
-### Шаг 4. Выбор страницы
-В админ-панели переходим в раздел «Pages» и выбираем страницу кафедры, созданную ранее, на нее будем добавлять рейтинг
-<img width="1439" height="816" alt="Снимок экрана 2026-05-09 в 18 21 06" src="https://github.com/user-attachments/assets/09618d8c-4e88-45a4-9792-8223177cf27b" />
+### Шаг 4. Создание страницы
+В админ-панели переходим в раздел «Pages» и нажимаем Add, чтобы добавить новую страницу. Выбираем тип страницы Timeline
+<img width="1439" height="814" alt="Снимок экрана 2026-05-09 в 19 19 15" src="https://github.com/user-attachments/assets/e49c7538-1612-49bd-afc5-7172c046a2bc" />
 
-### Шаг 5. Редактирование содержимого
-На выбранной странице в поле содержимого (Content) добавляем шорткод [ratings]
-<img width="1440" height="816" alt="Снимок экрана 2026-05-09 в 18 24 29" src="https://github.com/user-attachments/assets/b5e42437-357c-4908-9f25-12b192b85f49" />
+### Шаг 5. Редактирование страницы
+На созданной странице создаем дочерние страницы, выбираем тип Timeline event
+<img width="1440" height="815" alt="Снимок экрана 2026-05-09 в 19 13 00" src="https://github.com/user-attachments/assets/99b7aa31-bc4f-4d43-ace5-ce566b7922b1" />
 
 ### Шаг 6. Просмотр страницы на сайте
-Переходим на сайт (http://localhost:8080) и открываем страницу кафедры
+Переходим на сайт (http://localhost:8080) и открываем созданную страницу
+<img width="1440" height="818" alt="Снимок экрана 2026-05-09 в 19 19 36" src="https://github.com/user-attachments/assets/aa168c1d-7746-4e94-968b-f97abfac9dba" />
+
 
 
 
