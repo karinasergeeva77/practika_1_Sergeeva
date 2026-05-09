@@ -57,7 +57,7 @@
 <br>
 <img width="1440" height="900" alt="Снимок экрана 2026-04-30 в 23 45 50" src="https://github.com/user-attachments/assets/1df6ce7d-e601-41ff-80d8-ac9a9cac9934" />
 <br>
-13. Остановка работы контенера
+13. Остановка работы контенейра
 <br>
 <img width="564" height="88" alt="Снимок экрана 2026-04-30 в 23 47 40" src="https://github.com/user-attachments/assets/a1e04f87-acff-4430-9a88-fb44ba518f7d" />
 
